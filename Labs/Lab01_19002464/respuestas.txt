@@ -1,0 +1,30 @@
+Danny Juan Carlos Lopez Lopez-19002464
+1. Thread y Proceso 
+
+	a)Thread: Se le llamaria a la parte en donde se colocan los procesos, es decir la cola de
+	ejecucion que se esta llevando (unidad de ejecucion). 
+
+	b)Process: Se le puede denominar a un programa cargado en la memoria y que esta en ejecucion
+ 	(instancia de ejecucion). 
+
+	c)Diferencias: El proceso es lo que se esta ejecutando, y el Thread es en donde se ejecuta este 	
+	proceso.
+
+2. Multi-Threanding
+
+	Es la creacion de varias unidades de ejecucion para un mismo proceso ya que el proceso esta 
+	ejecutando multiples tareas. 	                                                                                                                                                                                                            
+
+3. Multi-Processing
+
+	Es la creacion de multiples procesos que se estan ejecutando a la vez y por lo tanto no comparten
+	recursos entre ellos.
+	
+4. CPU Single-Core
+	
+	a) 2 threads y la cantidad de procesos puede variar ya que un proceso puede estar dentro de 2 threads
+	   o viceversa que en cada threads hay  varios procesos 	
+	b) Del gestionamiento del Sistema Operativo 
+	c) Debido a que son varios core cada core tiene la capacidad de crear por lo menos un Thread y un
+	proceso entonces se puede decir que si, pudemos tener mas threads y mas procesos 
+	   
